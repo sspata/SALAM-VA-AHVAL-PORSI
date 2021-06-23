@@ -1,0 +1,2 @@
+c = 'chetori'
+print(c)
